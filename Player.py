@@ -1,0 +1,1 @@
+#player class will be used by both ai and person
